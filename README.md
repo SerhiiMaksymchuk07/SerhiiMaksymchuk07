@@ -1,4 +1,4 @@
-### Hi there 👋
+### Single-line web-server using bash. Have to run "webserver" in root. this program works on localhost by 4455 port, and write server response into "filename.out". 👋
 
 <!--
 **SerhiiMaksymchuk07/SerhiiMaksymchuk07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
