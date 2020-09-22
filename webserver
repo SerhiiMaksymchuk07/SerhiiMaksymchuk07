@@ -1,0 +1,3 @@
+#!/bin/bash
+# sigle-line web server using bash. Works on local host by 4455 port. Using nc funtion.
+nc -k -l 4455 > filename.out
